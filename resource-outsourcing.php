@@ -30,7 +30,7 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <ul class="topbar-info">
-                                    <li><i class="icon-envelope"></i><a href="mailto:info@go2ways.com"> info@go2ways.com</a></li>
+                                    <li><i class="icon-envelope"></i><a href="mailto:support@go2ways.com"> support@go2ways.com</a></li>
                                     <li><i class="icon-phone"></i> +91 8826949739</li>
                                 </ul>
                             </div>
@@ -257,7 +257,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="contact-info box-style2 ft-contact-info">
                         <div class="box-icon"><i class="icon-envelope"></i></div>
-                        <p> info@go2ways.com</p>
+                        <p> support@go2ways.com</p>
                         <h6>Our Mailbox</h6>                                            
                     </div>
                 </div>

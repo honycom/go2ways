@@ -7,7 +7,7 @@ $E_message= $_POST['message'];
 
 $url= $_SERVER['HTTP_REFERER'];
  
-$to = "prabhanshu.mca.1989@gmail.com, info@go2ways.com, ajay@go2ways.com, vikash@go2ways.com";
+$to = "prabhanshu.mca.1989@gmail.com, support@go2ways.com, ajay@go2ways.com, vikash@go2ways.com";
 $subject = "Enquiry Mail from :Go2ways";
  
 
