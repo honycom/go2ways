@@ -232,7 +232,7 @@
                         <div class="col-md-12">
                             <div class="top-heading">
                                 <div class="ot-heading">
-                                   <span>We Are Go2ways </span>
+                                   
                                     <h2 class="main-heading desktop">Your Partner <br>for Digital Transformation</h2>
 									<h4 class="mobile text-white">Your Partner <br>for Digital Transformation</h4>
                                 </div>
@@ -279,7 +279,7 @@
                     <div class="row">
                         <div class="col-lg-12 text-center">
                             <div class="ot-heading v3 mb-0">
-                                <span> we are Go2ways </span>
+                                
                                 <h2 class="main-heading">We are Trusted Worldwide</h2>
                             </div>
                         </div>
