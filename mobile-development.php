@@ -298,9 +298,9 @@
     </footer><!-- #site-footer -->
 </div><!-- #page -->
 <a id="back-to-top" href="#" class="show"><i class="icon-arrow-up"></i></a>
-	<div class="whatsapp-main">
+	<!--<div class="whatsapp-main">
 	<a href="https://wa.me/918826949739" target="_blank"><img src="images/WhatsApp-Logo.png" width="5%" class="whatsapp-img"></a>
-	</div>
+	</div> -->
         <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery.magnific-popup.min.js"></script>
