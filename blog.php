@@ -101,7 +101,7 @@
                                                 </ul>
                                             </li>
 											
-											<li ><a href="blog">Blog</a></li>
+											 <!--<li ><a href="blog/index.html">Blog</a></li>-->
 											
                                             <li ><a href="contact.php">Contacts</a></li>
                                         </ul>

@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/font-awesome.min.css" />
 	<link rel="stylesheet" href="css/flaticon.css"/>
-   
+    <link rel="stylesheet" href="font-awesome.css">
 	<link rel="stylesheet" href="css/fonts.css" />
     <link rel="stylesheet" href="css/owl.carousel.min.css" />
     <link rel="stylesheet" href="css/owl.theme.css" />
@@ -48,7 +48,7 @@
                                         <li>We are creative, ambitious and ready for challenges! <a href="contact.php">Hire Us</a></li>
                                     </ul>
                                     <ul class="social-list">
-                                        <li><a href="#" target="_self"><i class="icon-twitter"></i></a></li>
+                                        <li><a href="https://go2ways2021.blogspot.com/" target="_self"><i class="icon-twitter"></i></a></li>
                                         <li><a href="#" target="_self"><i class="icon-facebook"></i></a></li>
                                         <li><a href="#" target="_self"><i class="icon-linkedin"></i></a></li>
                                         <li><a href="#" target="_self"><i class="icon-instagram"></i></a></li>
